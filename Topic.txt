@@ -1,8 +1,8 @@
-# Sociale
-# Compagnies aeriennes
+# Actuariat
+# Marketing
 # Medecine
 # Immobilier
-# Transport
+# Transport (Compagnies aeriennes)
 # Education
 # Santé
 # Automobile
