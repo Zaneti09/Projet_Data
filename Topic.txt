@@ -1,10 +1,15 @@
-# Actuariat
-# Marketing
-# Medecine
-# Immobilier
-# Transport (Compagnies aeriennes)
-# Education
-# Santé
-# Automobile
-# Sport
-# Economie
+# Actuariat ( Comment modéliser un risque à partir de donnés réelles ?) loi de proba, estimati, simulat monte carlo 
+# Psychologie (Le stress améliore t il ou dégrade t il la performance ?) corrélation, test 🚉 
+# Marketing ( Existe t il des profils de consommateurs homogènes ?) k-means,acp
+# Pharmacie ( Quels profils consomment le plus de medicaemnt ?) stat multi, clustering
+# Immobilier ( Quels critères influencent réellement le prix au m² ?) regres lin
+# Transport (Compagnies aeriennes)(retards recurrents [bus, train...])model, series temporelles
+# Education ( Réussite scolaire ) regres log, algode scoring
+# Santé ( Fréquence de recours aux soins en fn de l'âge et le sexe ) stat desc, visual, anova
+# Automobile ( consommation réelle vs annoncée ) regrssion mult, analyse d'erreurs
+# Sport ( Peut-on prédire l'issue d'un match avec des statistiques simples ?) algo,classi,validation
+# Economie ( Comment une hausse des prix influence les comportements ?) regre
+# Sociologie ( Comment mésurer correctement les inégalités ?) indice de gini, algo de calcul
+# Numérique ( Analyse de l'acceptation des cookies selon le profil utilisateur ) stat desc, regre log, algo scor 
+# Urbanisation ( Pourquoi certaines villes attirent plus que d'autres ?)
+# Actuariat ( Modéliser et prevoir le risque assurantiel à partir de données historiques de sinistres )
